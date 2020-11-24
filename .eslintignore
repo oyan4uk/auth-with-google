@@ -1,0 +1,6 @@
+dist/
+**/*.min.js
+
+src/store
+src/serviceWorker.js
+src/reportWebVitals.js
